@@ -14,12 +14,12 @@
     "url": "git+https://github.com/YuliiaBond/goit-js-hw-10-food-service.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Yuliia Bondarenko <bondarenko047@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/YuliiaBond/goit-js-hw-10-food-service/issues"
   },
-  "homepage": "https://github.com/YuliiaBond/goit-js-hw-10-food-service",
+  "homepage": "https://github.com/YuliiaBond/goit-js-hw-10-food-service#readme",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
